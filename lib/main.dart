@@ -95,7 +95,7 @@ class _MyStatefulWidgetState extends State<MyStatefulWidget>
         ),
         DelayedAnimation(
           child: Text(
-            'You are most welcome from me',
+            'You are most welcome from me Hello ',
             style: TextStyle(
               fontSize: 30,
               color: Colors.black,
