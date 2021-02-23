@@ -3,7 +3,6 @@ import 'package:animation/delay.dart';
 import 'package:avatar_glow/avatar_glow.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/animation.dart';
-//import 'package:animations/animations.dart';
 
 void main() => runApp(MyApp());
 
